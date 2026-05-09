@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Lenin Samuvel 👋
 
-<!--
-**lenin1911/lenin1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at Sri Shakthi Institute of Engineering and Technology
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Java
+- MongoDB
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested In
+- Software Development
+- Problem Solving
+- Database Management
+
+📌 Current Goal
+- Solve LeetCode problems consistently
+- Build real-world projects
+- Improve development skills
+
+## LeetCode & GitHub
+- Uploading coding solutions regularly
+- Practicing DSA daily
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/lenin-samuvel-a-6a316837a

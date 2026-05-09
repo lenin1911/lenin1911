@@ -22,4 +22,4 @@
 - Practicing DSA daily
 
 ## Connect With Me
-- LinkedIn: [LinkedIn](linkedin.com/in/lenin-samuvel-a-6a316837a)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lenin-samuvel-a-6a316837a)

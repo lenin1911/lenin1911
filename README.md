@@ -23,3 +23,5 @@
 
 ## Connect With Me
 - LinkedIn: [LinkedIn](https://linkedin.com/in/lenin-samuvel-a-6a316837a)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)

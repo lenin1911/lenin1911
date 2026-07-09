@@ -74,3 +74,8 @@
 ---
 
 <p align="center"><i>Consistently learning, one commit at a time.</i></p>
+
+<p align="center">
+  <em>"Every morning, you have two choices: continue to sleep with your dreams, or wake up and chase them."</em><br>
+  <strong>— Erling Haaland</strong> 💪
+</p>

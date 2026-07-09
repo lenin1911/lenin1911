@@ -42,10 +42,8 @@
 ### 🏆 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/lenin1911?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/lenin_samuvel?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </p>
-
-> Replace `lenin1911` in the LeetCode card URL above with your actual LeetCode username if it's different.
 
 ---
 

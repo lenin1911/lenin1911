@@ -51,17 +51,6 @@
 
 **[Nuvaro Cloud](https://github.com/lenin1911)** — A production-quality, secure, and responsive Cloud File Storage web app (like a simplified Google Drive).
 
-- 🔐 **Auth:** JWT-based sessions with bcrypt password hashing and route guards
-- ☁️ **Storage:** Direct AWS S3 integration (LocalStack for offline dev), with secure presigned download URLs
-- 🗂️ **Metadata:** File size, MIME type, public/private flags, and UUID mapping indexed in PostgreSQL
-- 📊 **Dashboard:** Storage indicators, file counts, search, and recent uploads
-- 📁 **File Explorer:** Grid/list views, sorting, category filters, and renaming
-- 🎬 **Inline Previews:** Built-in viewers for images, videos, and PDFs
-- 🐳 **Docker Orchestrated:** Multi-container setup with Postgres, LocalStack, FastAPI, and Nginx
-
-**Stack:** FastAPI · PostgreSQL · AWS S3 · Docker · JWT · bcrypt
-
----
 
 ### 🤝 Connect With Me
 

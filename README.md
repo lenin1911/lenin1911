@@ -53,6 +53,14 @@
 
 **[Prompt Enhancer](https://github.com/lenin1911/prompt)** — showcasing advanced prompting techniques to improve the accuracy and consistency of AI-generated responses.
 
+---
+### Leetcode
+
+<p align="left">
+  <a href="https://leetcode.com/lenin_samuvel" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white" />
+  </a>
+</p>
 
 ### 🤝 Connect With Me
 

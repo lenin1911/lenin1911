@@ -51,6 +51,8 @@
 
 **[Nuvaro Cloud](https://github.com/lenin1911)** — A production-quality, secure, and responsive Cloud File Storage web app (like a simplified Google Drive).
 
+**[Prompt Enhancer](https://github.com/lenin1911/prompt)** — showcasing advanced prompting techniques to improve the accuracy and consistency of AI-generated responses.
+
 
 ### 🤝 Connect With Me
 

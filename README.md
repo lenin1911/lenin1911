@@ -10,7 +10,6 @@
 ### 🎓 About Me
 
 - 🎓 Engineering student at **Sri Shakthi Institute of Engineering and Technology**
-- 💻 Currently building **Nuvaro Cloud** — a production-quality, secure cloud file storage web app (like a simplified Google Drive) with AWS S3, JWT auth, and inline file previews
 - 📚 Learning **Python**, backend engineering, and full-stack development as part of a structured roadmap
 - 🧠 Practicing **Data Structures & Algorithms** daily on LeetCode
 - 🌱 Strong foundation in **Java** (Collections, JDBC, Lambdas, Design Patterns) and **SQL**

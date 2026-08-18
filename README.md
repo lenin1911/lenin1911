@@ -147,7 +147,8 @@ My current journey focuses on Java, Python, SQL, backend development, full-stack
 
 <div align="center">
 
-🚀 Keep Building. Keep Learning. Keep Growing.
+"Every morning, you have two choices: continue to sleep with your dreams, or wake up and chase them."
+                                                      — Erling Haaland 💪
 
 <br/>
 

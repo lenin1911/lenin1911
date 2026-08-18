@@ -115,9 +115,6 @@ My current journey focuses on Java, Python, SQL, backend development, full-stack
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DSA%20Practice-200%2B-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Learning-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-6D28D9?style=for-the-badge"/>
 
 </div>
 

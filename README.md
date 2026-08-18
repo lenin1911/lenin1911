@@ -45,60 +45,6 @@ I enjoy learning by building practical projects, solving programming problems, a
 
 My current journey focuses on Java, Python, SQL, backend development, full-stack development, cloud technologies, and AI applications.
 
-🧠 What I'm Exploring
-
-<div align="center">
-
-💻 Programming
-
-🌐 Development
-
-🤖 AI & Data
-
-☁️ Cloud & Backend
-
-Java
-
-React
-
-AI Applications
-
-FastAPI
-
-Python
-
-HTML/CSS
-
-Prompt Engineering
-
-Redis
-
-JavaScript
-
-Full Stack
-
-RAG
-
-Celery
-
-SQL
-
-REST APIs
-
-Generative AI
-
-Cloud Storage
-
-DSA
-
-Database Development
-
-LLM Applications
-
-AWS
-
-</div>
-
 🛠️ Tech Stack
 
 💻 Programming

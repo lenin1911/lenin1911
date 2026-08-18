@@ -260,7 +260,27 @@ goal:
 
 </div>
 
-📊 GitHub Stats
+📊 GitHub & LeetCode
+
+🧠 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/lenin_samuvel?theme=dark&font=Fira%20Code&ext=heatmap" alt="Lenin Samuvel LeetCode Stats" />
+
+</div>
+
+<br/>
+
+🟩 GitHub Contribution Map
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lenin1911&bg_color=0f172a&color=a78bfa&line=22c55e&point=a855f7&area=true&hide_border=true" alt="Lenin Samuvel GitHub Contribution Graph" />
+
+</div>
+
+<br/>
 
 <div align="center">
 

@@ -129,9 +129,24 @@ My current journey focuses on Java, Python, SQL, backend development, full-stack
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add your LinkedIn URL and email below when you want them displayed -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lenin-samuvel-a-6a316837a/">
+<img src="https://img.shields.io/badge/LinkedIn-Lenin%20Samuvel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/lenin_samuvel/">
+<img src="https://img.shields.io/badge/LeetCode-lenin__samuvel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/lenin1911">
+<img src="https://img.shields.io/badge/GitHub-lenin1911-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+<!-- Add your LinkedIn URL and email below when you want them displayed -->
+
 
 <div align="center">
 

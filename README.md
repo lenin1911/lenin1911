@@ -104,36 +104,6 @@ My current journey focuses on Java, Python, SQL, backend development, full-stack
 
 </div>
 
-📈 Developer Mindset
-
-<div align="center">
-
-             💡 IDEA
-                │
-                ▼
-             🔍 EXPLORE
-                │
-                ▼
-             🧠 LEARN
-                │
-                ▼
-             💻 BUILD
-                │
-                ▼
-             🧪 TEST
-                │
-                ▼
-             🚀 DEPLOY
-                │
-                ▼
-             📢 SHARE
-                │
-                ▼
-             🔄 IMPROVE
-                │
-                └──────────► 💡 IDEA
-
-</div>
 
 📌 GitHub
 
@@ -172,7 +142,6 @@ My current journey focuses on Java, Python, SQL, backend development, full-stack
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Solve+%7C+Build+%7C+Learn;One+Project+At+a+Time+%F0%9F%9A%80;The+Journey+Has+Just+Started+%E2%9C%A8" alt="Footer Animation"/>
 
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0f172a&height=140&section=footer"/>
 
 </div>

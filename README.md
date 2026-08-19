@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.E.-Information%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROLE-Aspiring%20Software%20Developer-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20AI-A855F7?style=for-the-badge"/>
 
